@@ -1,0 +1,32 @@
+## MCQ 1
+Question: Which of the following is NOT a key element contributing to enhanced user experience in a fitness app redesign?
+A) Data Clarity
+B) User Engagement
+C) Complex Data Algorithms
+D) Visual Appeal
+Correct Answer: C
+
+## MCQ 2
+Question: What is the primary difference between a scatter plot and a bubble plot?
+A) Scatter plots show correlations, while bubble plots show causations.
+B) Scatter plots visualize two variables, while bubble plots visualize three.
+C) Scatter plots use colors to represent data, while bubble plots use shapes.
+D) Scatter plots are used for financial data, while bubble plots are used for marketing data.
+Correct Answer: B
+
+## MCQ 3
+Question: In a financial planning app, what is the purpose of "Feedback Loops" in user interaction?
+A) To provide historical data on past transactions.
+B) To offer personalized investment advice.
+C) To give real-time feedback, such as progress towards goals or spending alerts.
+D) To display complex financial projections.
+Correct Answer: C
+
+
+## MCQ 4
+Question: How does "Aesthetic Simplicity" contribute to the visual design of a financial planning app?
+A) By using a wide range of colors and fonts to engage the user.
+B) By incorporating complex animations and transitions.
+C) By reducing cognitive load and making navigation easier.
+D) By displaying as much information as possible on a single screen.
+Correct Answer: C
